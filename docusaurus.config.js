@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Maker Journey',
-  tagline: 'Buidling, Learning, Creating',
+  title: 'My Maker Journey-Mimi',
+  tagline: 'Buidling, Learning, Creating-Mimi',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://github.com/MingMimi96/my-maker-blog-Mimi.git',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'my-maker-blog-Mimi/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'MingMimi96', // Usually your GitHub org/user name.
+  projectName: 'my-maker-blog-Mimi', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
