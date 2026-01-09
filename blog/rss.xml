@@ -1,54 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Maker Journey-Mimi Blog</title>
+        <title>Mimi's Personal Website Blog</title>
         <link>https://MingMimi96.github.io/blog</link>
-        <description>My Maker Journey-Mimi Blog</description>
-        <lastBuildDate>Tue, 06 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <description>Mimi's Personal Website Blog</description>
+        <lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[blog-final presentation]]></title>
-            <link>https://MingMimi96.github.io/blog/2026/1/6/blog-final presentation</link>
-            <guid>https://MingMimi96.github.io/blog/2026/1/6/blog-final presentation</guid>
+            <title><![CDATA[Read-Me]]></title>
+            <link>https://MingMimi96.github.io/blog/2026/2/16/Read-Me</link>
+            <guid>https://MingMimi96.github.io/blog/2026/2/16/Read-Me</guid>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[slug: introduction]]></description>
+            <content:encoded><![CDATA[<p>slug: introduction
+title: Blog Introduction
+authors: [Mimi]
+tags: [Hello, world! Welcome!]</p>
+<hr>
+<p>Welcome! Today is a great day.
+Please read this blog. It will be helpful.</p>
+<p>Hi! I am Jiaming Xue. You can also call me Mimi.</p>
+<p>I am a cross-broader.</p>
+<p>I explore in many areas: Political Economy, Public Policy, AI Education, AI Ethics, Philosophy, Finance, Statistics, Sociology, and so on.</p>
+<p>I also have many identities. You can have a guess.</p>
+<p>Here is my blog. In this part, you can see what I am doing/ thinking/ concering/ passionate about......</p>
+<p>I will also share some products and small innovations I have done. If you want to join in my projects/ have a chat with me/ cooperate with me/ other interesting things you want to do, please feel free to contact me.</p>
+<p>Here is my email: <a href="mailto:Jiaming.Xue2025@outlook.com" target="_blank" rel="noopener noreferrer" class="">Jiaming.Xue2025@outlook.com</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mini-Cloud]]></title>
+            <link>https://MingMimi96.github.io/blog/Mini-Cloud</link>
+            <guid>https://MingMimi96.github.io/blog/Mini-Cloud</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mini Cloud calorie AI assistant]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="product-introduction">Product Introduction<a href="https://mingmimi96.github.io/blog/Mini-Cloud#product-introduction" class="hash-link" aria-label="Direct link to Product Introduction" title="Direct link to Product Introduction" translate="no">​</a></h2>
+<p>Mini Cloud CalorieScan is an innovative intelligent diet assistant that uses AI image recognition technology to automatically analyze the calories and nutrients in daily diets. Users simply need to say "take a photo", and they can obtain a clear calorie report, making health management as effortless as a journey in the cloud. We named it "Mini Cloud" because we hope it can help every user relieve the burden of record-keeping and make every day's dietary choices light, simple, and free.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="product-video">Product video<a href="https://mingmimi96.github.io/blog/Mini-Cloud#product-video" class="hash-link" aria-label="Direct link to Product video" title="Direct link to Product video" translate="no">​</a></h2>
+<iframe src="https://b23.tv/OGLOfcL" style="width:100%;height:420px;border-radius:12px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[First-hardware-product]]></title>
+            <link>https://MingMimi96.github.io/blog/2026/1/6/First-hardware-product</link>
+            <guid>https://MingMimi96.github.io/blog/2026/1/6/First-hardware-product</guid>
             <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[slug: Mini Cloud --- CalorieScan]]></description>
-            <content:encoded><![CDATA[<p>slug: Mini Cloud --- CalorieScan
-title: Final Product Post-Mimi
+            <description><![CDATA[slug: Product]]></description>
+            <content:encoded><![CDATA[<p>slug: Product
+title: Mini Cloud --- CalorieScan
 authors: [Mimi]
-tags: [Final Prodcut]</p>
+tags: [Prodcut]</p>
 <hr>
-<p>Welcome! Today is a great day.</p>
-<p><img decoding="async" loading="lazy" alt="Here is a poster to introduce the product!" src="https://mingmimi96.github.io/assets/images/final_prodcut_poster-e4e9a29c152c3d7c1fb2248c2c216406.png" width="2245" height="3179" class="img_ev3q"></p>]]></content:encoded>
+<p>Welcome! Today is a great day!</p>
+<p>I just completed my first hardware product. You can call it Mini Pink or Mini Cloud. More details can be found in the following poster!</p>
+<p>Additionally, this is the first version. V2 is on the way!</p>
+<p><img decoding="async" loading="lazy" alt="Here is a poster to introduce the details!" src="https://mingmimi96.github.io/assets/images/final_prodcut_poster-e4e9a29c152c3d7c1fb2248c2c216406.png" width="2245" height="3179" class="img_ev3q"></p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[first-blog copy]]></title>
-            <link>https://MingMimi96.github.io/blog/2025/11/22/first-blog copy</link>
-            <guid>https://MingMimi96.github.io/blog/2025/11/22/first-blog copy</guid>
-            <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[slug: first-blog-post-Mimi]]></description>
-            <content:encoded><![CDATA[<p>slug: first-blog-post-Mimi
-title: First Blog Post-Mimi
+            <title><![CDATA[New-year]]></title>
+            <link>https://MingMimi96.github.io/blog/2025/12/31/New-year</link>
+            <guid>https://MingMimi96.github.io/blog/2025/12/31/New-year</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[slug: blog-post-Mimi]]></description>
+            <content:encoded><![CDATA[<p>slug: blog-post-Mimi
+title: New Year is coming!
 authors: [Mimi]
-tags: [Hello, world! Welcome!]</p>
+tags: [Hello, 2026!]</p>
 <hr>
-<p>Welcome! Today is a great day...</p>
-<p>I love world.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[first-blog]]></title>
-            <link>https://MingMimi96.github.io/blog/2025/11/22/first-blog</link>
-            <guid>https://MingMimi96.github.io/blog/2025/11/22/first-blog</guid>
-            <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[slug: first-blog-post-Mimi]]></description>
-            <content:encoded><![CDATA[<p>slug: first-blog-post-Mimi
-title: First Blog Post-Mimi
-authors: [Mimi]
-tags: [Hello, world! Welcome!]</p>
-<hr>
-<p>Welcome! Today is a great day...</p>
-<p>I love world.</p>]]></content:encoded>
+<p>Welcome! Hello, 2026!</p>
+<p>Good Luck comes!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
