@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Maker Journey-Mimi Blog</title>
-        <link>https://MingMimi96.github.io/my-maker-blog-Mimi/blog</link>
+        <link>https://MingMimi96.github.io/blog</link>
         <description>My Maker Journey-Mimi Blog</description>
         <lastBuildDate>Tue, 06 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[blog-final presentation]]></title>
-            <link>https://MingMimi96.github.io/my-maker-blog-Mimi/blog/2026/1/6/blog-final presentation</link>
-            <guid>https://MingMimi96.github.io/my-maker-blog-Mimi/blog/2026/1/6/blog-final presentation</guid>
+            <link>https://MingMimi96.github.io/blog/2026/1/6/blog-final presentation</link>
+            <guid>https://MingMimi96.github.io/blog/2026/1/6/blog-final presentation</guid>
             <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[slug: Mini Cloud --- CalorieScan]]></description>
             <content:encoded><![CDATA[<p>slug: Mini Cloud --- CalorieScan
@@ -20,12 +20,26 @@ authors: [Mimi]
 tags: [Final Prodcut]</p>
 <hr>
 <p>Welcome! Today is a great day.</p>
-<p><img decoding="async" loading="lazy" alt="Here is a poster to introduce the product!" src="https://mingmimi96.github.io/my-maker-blog-Mimi/assets/images/final_prodcut_poster-e4e9a29c152c3d7c1fb2248c2c216406.png" width="2245" height="3179" class="img_ev3q"></p>]]></content:encoded>
+<p><img decoding="async" loading="lazy" alt="Here is a poster to introduce the product!" src="https://mingmimi96.github.io/assets/images/final_prodcut_poster-e4e9a29c152c3d7c1fb2248c2c216406.png" width="2245" height="3179" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[first-blog copy]]></title>
+            <link>https://MingMimi96.github.io/blog/2025/11/22/first-blog copy</link>
+            <guid>https://MingMimi96.github.io/blog/2025/11/22/first-blog copy</guid>
+            <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[slug: first-blog-post-Mimi]]></description>
+            <content:encoded><![CDATA[<p>slug: first-blog-post-Mimi
+title: First Blog Post-Mimi
+authors: [Mimi]
+tags: [Hello, world! Welcome!]</p>
+<hr>
+<p>Welcome! Today is a great day...</p>
+<p>I love world.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[first-blog]]></title>
-            <link>https://MingMimi96.github.io/my-maker-blog-Mimi/blog/2025/11/22/first-blog</link>
-            <guid>https://MingMimi96.github.io/my-maker-blog-Mimi/blog/2025/11/22/first-blog</guid>
+            <link>https://MingMimi96.github.io/blog/2025/11/22/first-blog</link>
+            <guid>https://MingMimi96.github.io/blog/2025/11/22/first-blog</guid>
             <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[slug: first-blog-post-Mimi]]></description>
             <content:encoded><![CDATA[<p>slug: first-blog-post-Mimi
